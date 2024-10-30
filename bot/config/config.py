@@ -8,7 +8,7 @@ class Settings(BaseSettings):
     API_HASH: str
 
 
-    REF_LINK: str = "https://t.me/PAWSOG_bot/PAWS?startapp=sc9bGaHz"
+    REF_LINK: str = "https://t.me/PAWSOG_bot/PAWS?startapp=paJVq74B"
 
     AUTO_TASK: bool = True
     IGNORE_TASKS: list[str] = ["wallet"]
