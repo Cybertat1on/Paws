@@ -4,6 +4,7 @@
 
 #  Bot for Paws
 
+![start-paws](https://github.com/user-attachments/assets/69d1d3e6-6366-4513-be84-23dbda3ed128)
 
 
 # 🔥🔥 Use PYTHON 3.11.5 🔥🔥
